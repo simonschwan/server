@@ -1,0 +1,22 @@
+{
+  "name": "amos-server-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonschwan/server.git"
+  },
+  "author": "Simon Schwan <public.sias@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonschwan/server/issues"
+  },
+  "homepage": "https://github.com/simonschwan/server#readme",
+  "dependencies" : {
+    "amos-engine-test": "1.0.0"
+  }
+}
